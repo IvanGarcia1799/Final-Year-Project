@@ -1,0 +1,23 @@
+{
+    "DefeatEnemyAgent": {
+        "checkpoints": [
+            {
+                "steps": 448,
+                "file_path": "results\\fight10\\DefeatEnemyAgent\\DefeatEnemyAgent-448.onnx",
+                "reward": null,
+                "creation_time": 1618511084.245226
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 448,
+            "file_path": "results\\fight10\\DefeatEnemyAgent.onnx",
+            "reward": null,
+            "creation_time": 1618511084.245226
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}

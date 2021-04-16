@@ -1,0 +1,23 @@
+{
+    "Defeat Enemy Agent": {
+        "checkpoints": [
+            {
+                "steps": 5546,
+                "file_path": "results\\fight13\\Defeat Enemy Agent\\Defeat Enemy Agent-5546.onnx",
+                "reward": 305.7571476073492,
+                "creation_time": 1618522410.1067557
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5546,
+            "file_path": "results\\fight13\\Defeat Enemy Agent.onnx",
+            "reward": 305.7571476073492,
+            "creation_time": 1618522410.1067557
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}

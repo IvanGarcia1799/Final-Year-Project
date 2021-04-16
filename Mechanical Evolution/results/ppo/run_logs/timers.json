@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1618343495",
+        "python_version": "3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]",
+        "command_line_arguments": "E:\\Final year Project\\Mechanical Evolution\\venv\\Scripts\\mlagents-learn",
+        "mlagents_version": "0.25.0",
+        "mlagents_envs_version": "0.25.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1+cu110",
+        "numpy_version": "1.20.2",
+        "end_time_seconds": "1618343556"
+    },
+    "total": 60.7842875,
+    "count": 1,
+    "self": 0.0025378999999929874,
+    "children": {
+        "run_training.setup": {
+            "total": 0.05496489999999998,
+            "count": 1,
+            "self": 0.05496489999999998
+        },
+        "TrainerController.start_learning": {
+            "total": 60.7267847,
+            "count": 1,
+            "self": 0.00010230000000177597,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 60.7264517,
+                    "count": 1,
+                    "self": 60.7264517
+                },
+                "TrainerController._save_models": {
+                    "total": 0.0002307000000030257,
+                    "count": 1,
+                    "self": 0.0002307000000030257
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "DefeatEnemy": {
+        "checkpoints": [
+            {
+                "steps": 1131,
+                "file_path": "results\\fight7\\DefeatEnemy\\DefeatEnemy-1131.onnx",
+                "reward": 2305.25,
+                "creation_time": 1618389600.234759
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1131,
+            "file_path": "results\\fight7\\DefeatEnemy.onnx",
+            "reward": 2305.25,
+            "creation_time": 1618389600.234759
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}
